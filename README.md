@@ -77,3 +77,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to The Meal DB API for providing food data.
 - Special thanks to [contributors](CONTRIBUTORS.md) who have contributed to this project.
 
+## Developer
+
+- **Name:** MOHD AAKIB
+- **GitHub:** https://github.com/GeniusApk
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-aakib-0546ab272/)
+
+[![linkedin](https://img.shields.io/badge/instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aakib__21/)
