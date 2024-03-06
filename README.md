@@ -35,11 +35,9 @@ Dish Discovery is an Android app that allows users to explore various food categ
 - Kotlin
 - Jetpack Compose
 - Retrofit
-- Coil
 - Jetpack Navigation
-- Room Database
-- Coroutines
-- ...
+
+
 
 ## Getting Started
 
