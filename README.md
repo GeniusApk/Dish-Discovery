@@ -1,6 +1,8 @@
 # Dish Discovery App
 
-![Logo](app/src/main/res/drawable/ic_launcher.png)
+
+<img src="https://github.com/GeniusApk/Dish-Discovery/assets/101592615/d128b725-f71c-45e6-8c09-a4f3169aed31" alt="App Logo" width="200"/>
+
 
 Dish Discovery is an Android app that allows users to explore various food categories and discover new dishes.
 
